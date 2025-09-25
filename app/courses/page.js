@@ -3,7 +3,7 @@ import React from "react";
 const page = () => {
   return (
     <div>
-      <h2 className="text-2xl font-semibold tracking-tight">Home Page</h2>
+      <h2 className="text-2xl font-semibold tracking-tight">Courses Page</h2>
     </div>
   );
 };
